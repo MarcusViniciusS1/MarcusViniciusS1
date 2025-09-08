@@ -4,10 +4,14 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante e entusiasta de desenvolvimento de software  
-- 💡 Sempre explorando novas tecnologias e boas práticas  
-- 🤝 Aberto a colaborações em projetos open source  
+- 👨‍💻 Marcus Vinicius P Marcello
+- 📆 21 Anos
+- 🎓 Bacharelado, Análise e Desenvolvimento de Sistemas
+- 👨‍🎓 Ensino Médio integrado ao técnico de informatica para internet   
+- 👨‍🎓 Curso de Animação, Tecnologia Interativa, Design Videográfico e Efeitos Especiais 3D
+- 👨‍🎓 Curso de edição de vídeo pacote Adobe
 - 📈 Buscando evoluir todos os dias  
+
 
 ---
 
