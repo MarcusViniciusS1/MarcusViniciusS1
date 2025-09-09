@@ -6,10 +6,10 @@
 
 - 👨‍💻 Marcus Vinicius P Marcello
 - 📆 21 Anos
-- 🎓 Bacharelado, Análise e Desenvolvimento de Sistemas
-- 👨‍🎓 Ensino Médio integrado ao técnico de informatica para internet   
-- 👨‍🎓 Curso de Animação, Tecnologia Interativa, Design Videográfico e Efeitos Especiais 3D
-- 👨‍🎓 Curso de edição de vídeo pacote Adobe
+- 🎓 Bacharelado, Análise e Desenvolvimento de Sistemas 4/5 2026
+- 👨‍🎓 Ensino Médio integrado ao técnico de informatica para internet   3/3 2023
+- 👨‍🎓 Curso de Animação, Tecnologia Interativa, Design Videográfico e Efeitos Especiais 3D 3/3 2019
+- 👨‍🎓 Curso de edição de vídeo pacote Adobe 1/1 2019
 - 📈 Buscando evoluir todos os dias  
 
 
