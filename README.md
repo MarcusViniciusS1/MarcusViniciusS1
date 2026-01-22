@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcusViniciusS1&theme=transparent" alt="Estatísticas" />
-  <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcusViniciusS1&theme=dark)" alt="Linguagens" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcusViniciusS1&theme=dark)" alt="Linguagens" />
 </p>
 
 <p align="center">
