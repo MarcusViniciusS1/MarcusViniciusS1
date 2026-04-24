@@ -5,7 +5,7 @@
 ### 🚀 Sobre mim
 
 - 👨‍💻 Marcus Vinicius P Marcello
-- 📆 21 Anos
+- 📆 22 Anos
 - 🎓 Bacharelado, Análise e Desenvolvimento de Sistemas 4/5 2026
 - 👨‍🎓 Ensino Médio integrado ao técnico de informatica para internet   3/3 2023
 - 👨‍🎓 Curso de Animação, Tecnologia Interativa, Design Videográfico e Efeitos Especiais 3D 3/3 2019
