@@ -32,13 +32,17 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusViniciusS1&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusS1&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcusViniciusS1&theme=transparent" alt="Estatísticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcusViniciusS1&theme=transparent" alt="Linguagens" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcusViniciusS1&theme=transparent" alt="Detalhes do Perfil" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MarcusViniciusS1">
-    <img src="https://streak-stats.demolab.com?user=MarcusViniciusS1&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=MarcusViniciusS1&theme=transparent&hide_border=true&locale=pt_BR" alt="Streak" />
   </a>
 </p>
 
